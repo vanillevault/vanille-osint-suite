@@ -1,0 +1,6 @@
+python-whois
+dnspython
+requests
+beautifulsoup4
+colorama
+ipinfo
